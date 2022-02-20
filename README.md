@@ -10,7 +10,7 @@ Active on twitter 👇 following Deep Learning Research.
 Reach out at[<img height="30" src="logos/Outlook.png">](mailto:appidi.harinadh@outlook.com)
 
 ---
-### 📢 Connect with me 👇
+### 📢 Feel Free to connect with me 👇
 <p align = "left">
 <a href="https://twitter.com/harinadh_appidi/" target="_blank"><img height="30" src="logos/Twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/harinadh-appidi/" target="_blank"><img height="30" src="logos/Linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
