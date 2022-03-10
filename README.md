@@ -2,11 +2,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/harinadh12/harinadh12)](https://badges.pufler.dev)
 
 # Hey there 👋, I'm Hari!
-I am currently pursuing masters in Data Science and Analytics. I have been working on ML/AI products for the past 4 years.
-Active on twitter 👇 following Deep Learning Research.
 
-### Actively looking for internship opportunites -  Summer 2022. 
-
+1. Trying to fit in a world of building learning machines.
+2. Inspired with Deep Learning and loves statistical machine learning.
+3. Always looking beyond abstraction to understand things better.
+4. I am currently doing a masters in Data Science at University of Oklahoma.
+5. Open to full time or part time opportunities.
+ 
 Reach out at[<img height="30" src="logos/Outlook.png">](mailto:appidi.harinadh@outlook.com)
 
 ---
@@ -14,6 +16,7 @@ Reach out at[<img height="30" src="logos/Outlook.png">](mailto:appidi.harinadh@o
 <p align = "left">
 <a href="https://twitter.com/harinadh_appidi/" target="_blank"><img height="30" src="logos/Twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/harinadh-appidi/" target="_blank"><img height="30" src="logos/Linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "https://medium.com/@harinadhappidi" target="_blank"><img height="30" src="logos/medium-seeklogo.com.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <details>
