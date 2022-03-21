@@ -2,9 +2,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/harinadh12/harinadh12)](https://badges.pufler.dev)
 
 # Hey there 👋, I'm Hari! 
-# <a href="https://www.hackerrank.com/harinadhappidi" target="_blank"><img height="30" src="logos/HackerRank.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-# <a href="https://app.codesignal.com/profile/harinadh_a" target="_blank"><img height="30" src="logos/CodeSignal.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-# <a href="https://leetcode.com/harinadhappidi/" target="_blank"><img height="30" src="logos/Leet_code.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align = "left">
+<a href="https://www.hackerrank.com/harinadhappidi" target="_blank"><img height="30" src="logos/HackerRank.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://app.codesignal.com/profile/harinadh_a" target="_blank"><img height="30" src="logos/CodeSignal.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/harinadhappidi/" target="_blank"><img height="30" src="logos/Leet_code.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 1. Trying to fit in a world of building learning machines.
 2. Inspired with Deep Learning and loves statistical machine learning.
