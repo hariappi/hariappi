@@ -8,11 +8,9 @@
 <a href="https://leetcode.com/harinadhappidi/" target="_blank"><img height="30" src="logos/Leet_code.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-1. Trying to fit in a world of building learning machines.
-2. Inspired with Deep Learning and loves statistical machine learning.
-3. Always looking beyond abstraction to understand things better.
-4. I am currently doing a masters in Data Science at University of Oklahoma.
-5. Open to full time or part time opportunities.
+1. Always looking beyond abstraction to understand things better.
+2. I am currently doing a masters in Data Science at University of Oklahoma.
+3. Open to full time or part time opportunities.
  
 Reach out at[<img height="30" src="logos/Outlook.png">](mailto:appidi.harinadh@outlook.com)
 
