@@ -2,14 +2,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/harinadh12/harinadh12)](https://badges.pufler.dev)
 
 # Hey there 👋, I'm Hari! 
-<p align = "left">
+<!-- <p align = "left">
 <a href="https://www.hackerrank.com/harinadhappidi" target="_blank"><img height="30" src="logos/HackerRank.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://app.codesignal.com/profile/harinadh_a" target="_blank"><img height="30" src="logos/CodeSignal.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/harinadhappidi/" target="_blank"><img height="30" src="logos/Leet_code.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 1. Always looking beyond abstraction to understand things better.
-2. I am currently doing a masters in Data Science at University of Oklahoma.
+2. Iam currently doing a masters in Data Science at University of Oklahoma.
 3. Open to full time or part time opportunities.
  
 Reach out at[<img height="30" src="logos/Outlook.png">](mailto:appidi.harinadh@outlook.com)
