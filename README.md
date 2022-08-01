@@ -1,11 +1,7 @@
 # Hey there 👋, I'm Hari! 
 
 # 💫About Me :
-* I'm currently working on federated machine learning.   
-* Always looking beyond abstraction to understand things better.
-* I'm currently doing a masters in Data Science at University of Oklahoma.
 * Open to full time opportunities from October 1, 2022.
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harinadh-appidi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harinadhappidi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18229403) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harinadh_appidi) 
